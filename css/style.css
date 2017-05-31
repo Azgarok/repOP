@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    padding: 5%;
+    color: #fffdd8;
+    font-family: 'Oswald', sans-serif;
+}
+
+footer {
+    text-align: left;
+    font-size: 80%;
+}
+span {
+    font-style: italic;
+}
+
+#pageglobale {
+    background-color: #0ac3a7;
+    width: 800px;
+    height: auto;
+    border: solid black 1px;
+    margin: auto;
+}
+#contenant_formulaire {
+    width: 550px;
+    height: 300px;
+    background-color: silver;
+    margin: auto;
+    text-align: left;
+    color: black;
+    font-size: 80%;
+    padding: 2%;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+#sub-title {
+    display: inline-block;
+    margin : 3% 0;
+}
+#phraseaccroche {
+    font-size: 90%;
+    text-align: center;
+}
+#reclamation {
+    margin: 1% 0 3% 3%;
+}
+.formulaire {
+
+}
+
+.center-content-area {
+width: auto;
+margin: 3% 0;
+}
+.souscontenant1 {
+    text-align: left;
+    font-size: 90%;
+}
+.souscontenant2 textarea {
+    border: solid black 1px;
+    position:
+}
